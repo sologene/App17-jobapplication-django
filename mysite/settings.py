@@ -128,5 +128,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "website.contact34@gmail.com"
-EMAIL_HOST_PASSWORD = "obri zvaw lric hkya"
+EMAIL_HOST_PASSWORD = {EMAIL PASSWORD}
 
